@@ -1,0 +1,7 @@
+package: github.com/bind-disney/filefetcher-server
+version: ""
+import:
+- package: github.com/bind-disney/filefetcher-core
+  subpackages:
+  - cli
+  - rpc

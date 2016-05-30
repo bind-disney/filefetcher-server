@@ -1,0 +1,9 @@
+hash: ebd51ed83da492447c80b7117cd2ae0494baba9c87ff439740005240b5e92a37
+updated: 2016-05-30T10:02:51.246390848+03:00
+imports:
+- name: github.com/bind-disney/filefetcher-core
+  version: d69684cc26037d5e4e4dfdfd2b7a0c4e5fe86b09
+  subpackages:
+  - cli
+  - rpc
+devImports: []
